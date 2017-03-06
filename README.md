@@ -51,4 +51,4 @@
 
 ## Extra
 
- - [Software Engineering at Google](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
+ - [Software Engineering at Google](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf): We catalog and describe Google’s key software engineering practices.
