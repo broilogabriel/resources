@@ -4,6 +4,14 @@
 
 ## Scala
 
+ - [sbt-start-script](https://github.com/sbt/sbt-start-script)
+ 
+ >This plugin allows you to generate a script target/start for a project. The script will run the project "in-place" (without having to build a package first).
+ 
+ - [SBT Native Packager](https://github.com/sbt/sbt-native-packager)
+ 
+ >SBT native packager lets you build application packages in native formats. It offers different archetypes for common configurations, such as simple Java apps or server applications.
+
 ## Java
 
 ## Linux
