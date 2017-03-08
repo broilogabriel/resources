@@ -34,6 +34,20 @@
 
 ## Linux
 
+ - [Vim Cheat Sheet](https://www.linuxtrainingacademy.com/vim-cheat-sheet/)
+ 
+ >Global
+ 
+ >:help keyword – open help for keyword
+ 
+ >:o file – open file
+ 
+ >:saveas file – save file as
+ 
+ >:close – close current window
+ 
+ >....
+
 ## Python
 
  - [Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure/)
