@@ -71,6 +71,10 @@
  - [Pipenv](http://docs.pipenv.org/en/latest/): Sacred Marriage of Pipfile, Pip, & Virtualenv
  
    > Pipenv is an experimental project that aims to bring the best of all packaging worlds to the Python world. It harnesses Pipfile, pip, and virtualenv into one single toolchain. It features very pretty terminal colors.
+   
+ - [Fabric](http://docs.fabfile.org/en/1.13/tutorial.html)
+ 
+   >Fabric is a Python (2.5-2.7) library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks.
 
 
 -----
