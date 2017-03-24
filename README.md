@@ -36,6 +36,9 @@
  
    >Cached resolution is an experimental feature of sbt added since 0.13.7 to address the scalability performance of dependency resolution.
 
+ - ### Events
+   - http://typelevel.org/events/
+
 -----
 
 ## Java
