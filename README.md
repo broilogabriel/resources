@@ -61,6 +61,9 @@
    >
    >....
 
+ - Useful Commands
+ 
+   - Biggest dirs: `du -sh ./* | sort -nr | head -n 20`
 -----
 
 ## Python
