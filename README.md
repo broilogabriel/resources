@@ -11,14 +11,6 @@
    > - And can scale up without significant changes to tooling, architecture, or development practices.
    >
    >The twelve-factor methodology can be applied to apps written in any programming language, and which use any combination of backing services (database, queue, memory cache, etc).
-   
- - [Blueprint](http://devstructure.com/blueprint/)
- 
-   >Blueprint was born out of frustration with development environments, deployment processes, and the complexity of configuration management systems.
-   >
-   >...
-   >
-   >Because Blueprint can reverse-engineer systems, it is of particular use migrating legacy systems into configuration management. It doesn’t matter when you install Blueprint: changes made to the system even before Blueprint is installed will be taken into account.
 
 -----
 
@@ -82,6 +74,12 @@
  
    >Fabric is a Python (2.5-2.7) library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks.
 
+
+-----
+
+## Markdown
+
+ - [Markdown using Visual Studio Code](http://thisdavej.com/build-an-amazing-markdown-editor-using-visual-studio-code-and-pandoc/)
 
 -----
 
